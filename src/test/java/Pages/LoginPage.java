@@ -19,6 +19,7 @@ import org.openqa.selenium.support.PageFactory;
         //some changes
 
         public WebDriver driver;
+        public Class class;
 
         @FindBy(xpath = "//button[text()='Login']")
         private WebElement openLoginForm;

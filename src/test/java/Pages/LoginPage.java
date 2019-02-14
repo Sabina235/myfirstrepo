@@ -16,8 +16,6 @@ import org.openqa.selenium.support.PageFactory;
 
         //hi anton
 
-        //some changes
-
         public WebDriver driver;
         public Class class;
 

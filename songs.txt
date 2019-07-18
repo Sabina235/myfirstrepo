@@ -4,6 +4,13 @@ say yes
 
 hello hello
 
+<<<<<<< HEAD
+
 аворораповыраопоаврповарва
 
 авпвыапавргнш
+=======
+dfhdjh
+
+hjgfhjfghj
+>>>>>>> ae86caecf95a63d41dcaca22eda627d5f51968ff
